@@ -1,0 +1,1 @@
+-fsingle-precision-constant -Os
